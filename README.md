@@ -1,6 +1,8 @@
 ![Imagem do projeto](https://i.imgur.com/fnrDbnq.png)
 
+Para pegar sua api key, entre no portal do desenvolvedor deixado logo abaixo, faça um cadastro na plataforma e copie sua chave para o local indicado
 
+![Onde colocar a key](https://i.imgur.com/dmUAOxB.png)
 
 # Digital Innovation One
 Projeto Web utilizando a API Coin Market Cap <br>
